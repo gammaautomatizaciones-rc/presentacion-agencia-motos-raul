@@ -53,6 +53,7 @@ h3{font-weight:700;font-size:clamp(16px,2vw,20px)}
   background:var(--y);color:#000;font-weight:900;font-size:clamp(16px,2.2vw,22px)}
 
 .price{color:var(--y);font-weight:900;font-size:clamp(46px,10vw,104px);line-height:1;letter-spacing:-.02em}
+.price .per{color:var(--tx);font-weight:700;font-size:.3em;letter-spacing:0}
 
 .nav{flex:none;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:clamp(10px,2vh,20px) clamp(16px,4vw,48px)}
 #dots{display:flex;gap:8px}
